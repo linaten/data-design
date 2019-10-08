@@ -1,8 +1,12 @@
 body {
 	background-color: blanchedalmond;
 }
-.container {
-	text-align: center;
+img {
+	border-style: solid;
+	border-color:black;
+}
+.container{
+	text-align:center;
 }
 h1{
 	text-align: center;
