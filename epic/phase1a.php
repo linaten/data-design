@@ -3,7 +3,7 @@
 <head>
 	<link rel="stylesheet" href="style.css"/>
 	<meta charset="UTF-8">
-	<Title>Phase One</Title>
+	<Title>Phase Two</Title>
 </head>
 <body>
 <h1>User Story</h1>

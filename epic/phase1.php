@@ -3,7 +3,7 @@
 <head>
 	<link rel="stylesheet" href="style.css"/>
 	<meta charset="UTF-8">
-<Title>Phase One</Title>
+<Title>Phase Two</Title>
 </head>
 <body>
 	<div class="container">
@@ -11,7 +11,6 @@
 	</div>
 	<h1>Persona</h1>
 		<p>This is Jack. Jack is a male in his early thirties. Jack only speaks English, and has a stable job and income. As most people his age, Jack is capable of using a computer,and prefers to make arrangements online versus in person or over the phone. Jack has his one year anniversary with his girlfriend coming up. Jack would like to take her to a slightly nicer restaurant than the Applebees he usually takes her to once a week, but still within his budget, maybe a chain steakhouse. Jack thinks overly romantic gestures are insincere and awkward. Jack prides himself on being practical and a man of routine. Thinking outside the box is not one of his strong suits. Jack sits in front of a computer most of the day for work, and finds it easier to arrange these sorts of things on it versus on his phone.</p>
-
 </body>
 
 </html>
