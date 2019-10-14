@@ -9,24 +9,23 @@
 <h2>user (Strong Entity)</h2>
 <ul>
 	<li>userID (primary key)</li>
-	<li>userName</li>
-	<li>userPhoneNumber</li>
-	<li>userEmailAddress</li>
+	<li>userHash (primary key)</li>
+	<li>userEmailAddress(primary key)</li>
 </ul>
-<h2>reservation(Strong Entity)</h2>
+<h2>restaurant (Strong Entity)</h2>
 <ul>
-	<li>reservationID (primary key)</li>
-	<li>reservationDate</li>
-	<li>reservationTime</li>
+	<li>restaurantID (primary key)</li>
+	<li>restaurantHash</li>
+	<li>restaurantEmailAddress</li>
 </ul>
-<h2>confirmation(Weak Entity)</h2>
+<h2>reservation (Weak Entity)</h2>
 <ul>
-	<li>confirmationUserID (foreign key)</li>
-	<li>confirmationReservationID (foreign key)</li>
+	<li>reservationUserID (foreign key)</li>
+	<li>reservationRestaurantID (foreign key)</li>
 </ul>
 
 <div class="container">
-	<img id="diagram" src="Diagram.jpg"
+	<img id="diagram" src="Diagram2.jpg"
 </div>
 </body>
 </html>
