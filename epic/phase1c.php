@@ -8,24 +8,25 @@
 <h1>Entities and Attributes</h1>
 <h2>user (Strong Entity)</h2>
 <ul>
-	<li>userID (primary key)</li>
-	<li>userHash (primary key)</li>
-	<li>userEmailAddress(primary key)</li>
+	<li>userId (primary key)</li>
+	<li>userHash</li>
+	<li>userEmailAddress</li>
 </ul>
 <h2>restaurant (Strong Entity)</h2>
 <ul>
-	<li>restaurantID (primary key)</li>
-	<li>restaurantHash</li>
-	<li>restaurantEmailAddress</li>
+	<li>restaurantId (primary key)</li>
+	<li>restaurantName</li>
+	<li>restaurantFoodType</li>
 </ul>
 <h2>reservation (Weak Entity)</h2>
 <ul>
-	<li>reservationUserID (foreign key)</li>
-	<li>reservationRestaurantID (foreign key)</li>
+	<li>reservationUserId (foreign key)</li>
+	<li>reservationRestaurantId (foreign key)</li>
+	<reservationDateAndTime
 </ul>
 
 <div class="container">
-	<img id="diagram" src="Diagram2.jpg"
+	<img id="diagram" src="Diagram3.jpg"
 </div>
 </body>
 </html>
